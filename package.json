@@ -1,0 +1,11 @@
+{
+  "name": "bluetooth-resolve-company",
+  "version": "1.0.0",
+  "description": "Resolve bluetooth company from manufacturing data buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diederik Feilzer",
+  "license": "ISC"
+}
